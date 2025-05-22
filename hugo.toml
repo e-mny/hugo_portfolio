@@ -1,0 +1,69 @@
+baseURL = 'https://emok.vercel.app/'
+languageCode = 'en-us'
+title = 'Enoch Mok'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'base16-ocean'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = ''
+homeIntroContent = """
+<b>Hi!</b>
+
+I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+"""
+
+# Footer
+showFooter = true
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "$ ~"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/enochmok/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/e-mny"
+
+[[params.social]]
+name = "telegram"
+url = "https://t.me/ahmokahmok"
+
+# Main menu pages
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'

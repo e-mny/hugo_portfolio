@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Enoch Mok</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Enoch Mok</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log-Structured Merge Tree</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I got a Bachelor’s degree from the &lt;a href=&#34;https://www.unitn.it/&#34;&gt;University of Trento&lt;/a&gt;, and my&#xA;Master’s degree from the &lt;a href=&#34;https://www.unimi.it/&#34;&gt;University of Milan&lt;/a&gt;. Currently,&#xA;I work as a Software Engineer at &lt;a href=&#34;https://www.amazon.jobs/teams/aft&#34;&gt;Amazon&lt;/a&gt; Berlin.&lt;/p&gt;&#xA;&lt;p&gt;During my studies, I gained a lot of interest in algorithms and data structures, as well as&#xA;distributed systems, databases, and search engines. I explored those topics with my master’s&#xA;thesis on &lt;a href=&#34;https://github.com/tomfran/ANS-Graph-compression&#34;&gt;graph compression&lt;/a&gt;, and with side&#xA;projects on &lt;a href=&#34;https://github.com/tomfran/LSM-Tree&#34;&gt;LSM tree&lt;/a&gt; and &lt;a href=&#34;https://github.com/tomfran/search-rs&#34;&gt;search engine&lt;/a&gt; &#xA;implementations.&lt;/p&gt;&#xA;&lt;p&gt;I had the opportunity of being a contestant at &lt;a href=&#34;https://swerc.eu/&#34;&gt;SWERC&lt;/a&gt;, a team competitive&#xA;programming competition, in 2020 and 2022, also, I liked to participate in &#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hash_Code_(programming_competition)&#34;&gt;Google Hashcode&lt;/a&gt; every time&#xA;I got the chance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+{{ $showFooter := default true .Site.Params.showFooter }}
+{{ if $showFooter }}
+    {{/* Footer start hook */}}
+    {{ partial "functions/get_hook.html" (dict "hook" "footer_start" "context" .) }}
+
+    {{ if not .Site.Params.footerContent }}        
+        <p>Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and too much coffee  ☕️.</p></p>
+    {{ end }}
+    
+    {{ with .Site.Params.footerContent }}
+    <p>{{ . | markdownify }}</p>
+    {{ end }}
+{{ end }}
