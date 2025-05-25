@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Enoch's Personal Website"
 
 # Appearance settings
 theme = 'auto'
@@ -19,12 +19,12 @@ colorPalette = 'base16-ocean'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = ''
+homeIntroTitle = 'hello! 👋🏻'
 homeIntroContent = """
-<b>Hi!</b>
 
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I'm a data scientist with a CS background, a soft spot for side projects, and a habit of turning random ideas into code. Whether it's machine learning, chatbots, or robotics, I like tech with a touch of personality.
+
+Feel free to explore - it's a mix of work and whimsy.
 """
 
 # Footer
