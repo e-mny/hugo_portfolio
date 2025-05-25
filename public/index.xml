@@ -6,28 +6,84 @@
     <description>Recent content in Home on Enoch Mok</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
+      <title>Screen Time Analysis with Supabase and Python</title>
+      <link>http://localhost:1313/projects/screentime_analysis/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/screentime_analysis/</guid>
+      <description>Wait, I&amp;rsquo;m 26 already? Where did my time go?</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description></description>
+      <title>Portfolio Website v2</title>
+      <link>http://localhost:1313/projects/portfolio_website_v2/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio_website_v2/</guid>
+      <description>V2 of my portfolio website. I probably learnt my lessons, right?</description>
+    </item>
+    <item>
+      <title>FitLah Bot</title>
+      <link>http://localhost:1313/projects/fitlah_bot/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fitlah_bot/</guid>
+      <description>If you use ActiveSG facilities, feel free to use this capacity checker too!</description>
+    </item>
+    <item>
+      <title>Portfolio Website v1</title>
+      <link>http://localhost:1313/projects/portfolio_website_v1/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio_website_v1/</guid>
+      <description>Just a simple personal portfolio website to showcase projects and skills. Shouldn&amp;rsquo;t be too difficult, right?</description>
+    </item>
+    <item>
+      <title>HDB Transport Infrastructure Review</title>
+      <link>http://localhost:1313/projects/hdb_transport_infrastructure_review/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hdb_transport_infrastructure_review/</guid>
+      <description>Always found public transport networks to be so cool. Especially trains. I like trains.</description>
+    </item>
+    <item>
+      <title>Youth Service Telegram Bot</title>
+      <link>http://localhost:1313/projects/nlym_telebot/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nlym_telebot/</guid>
+      <description>Didn&amp;rsquo;t seem very efficient if everyone in the group had to check the roster sheet every week. Why not automate it?</description>
+    </item>
+    <item>
+      <title>Mammogram Classification</title>
+      <link>http://localhost:1313/projects/mammogram_classification/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mammogram_classification/</guid>
+      <description>My FYP project that I did at Monash University, Melbourne! Lots of avocados and coffee were consumed in the process.</description>
+    </item>
+    <item>
+      <title>Retinal Segmentation</title>
+      <link>http://localhost:1313/projects/retinal_segmentation/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/retinal_segmentation/</guid>
+      <description>Explored image segmentation since I have done projects of image classification.</description>
+    </item>
+    <item>
+      <title>Field Booker</title>
+      <link>http://localhost:1313/projects/field_booker/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/field_booker/</guid>
+      <description>Had to book school fields as the frisbee captain. Unfortunately, said captain was too lazy to stay up until midnight to click through a user-unfriendly website.</description>
+    </item>
+    <item>
+      <title>COVID-19 Analysis</title>
+      <link>http://localhost:1313/projects/covid_analysis/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/covid_analysis/</guid>
+      <description>My first data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I got a Bachelor’s degree from the &lt;a href=&#34;https://www.unitn.it/&#34;&gt;University of Trento&lt;/a&gt;, and my&#xA;Master’s degree from the &lt;a href=&#34;https://www.unimi.it/&#34;&gt;University of Milan&lt;/a&gt;. Currently,&#xA;I work as a Software Engineer at &lt;a href=&#34;https://www.amazon.jobs/teams/aft&#34;&gt;Amazon&lt;/a&gt; Berlin.&lt;/p&gt;&#xA;&lt;p&gt;During my studies, I gained a lot of interest in algorithms and data structures, as well as&#xA;distributed systems, databases, and search engines. I explored those topics with my master’s&#xA;thesis on &lt;a href=&#34;https://github.com/tomfran/ANS-Graph-compression&#34;&gt;graph compression&lt;/a&gt;, and with side&#xA;projects on &lt;a href=&#34;https://github.com/tomfran/LSM-Tree&#34;&gt;LSM tree&lt;/a&gt; and &lt;a href=&#34;https://github.com/tomfran/search-rs&#34;&gt;search engine&lt;/a&gt; &#xA;implementations.&lt;/p&gt;&#xA;&lt;p&gt;I had the opportunity of being a contestant at &lt;a href=&#34;https://swerc.eu/&#34;&gt;SWERC&lt;/a&gt;, a team competitive&#xA;programming competition, in 2020 and 2022, also, I liked to participate in &#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hash_Code_(programming_competition)&#34;&gt;Google Hashcode&lt;/a&gt; every time&#xA;I got the chance.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I did my Bachelor’s in Computer Science at &lt;a href=&#34;https://www.ntu.edu.sg/&#34;&gt;Nanyang Technological University&lt;/a&gt;, graduating debt-free under a &lt;a href=&#34;https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme&#34;&gt;research-focused scholarship&lt;/a&gt;. I&amp;rsquo;m currently working as a Data Analyst at &lt;a href=&#34;https://www.singhealth.com.sg/&#34;&gt;SingHealth&lt;/a&gt;, Singapore&amp;rsquo;s biggest healthcare cluster.&lt;/p&gt;&#xA;&lt;p&gt;During my studies, I developed a tray-return robot, co-authored a &lt;a href=&#34;https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985&#34;&gt;book chapter&lt;/a&gt;, recreated a life-sized model of my hall room in Minecraft for an orientation camp, and experienced a slipped disc along the way. Pretty eventful I must say.&lt;/p&gt;&#xA;&lt;p&gt;They said to travel while you&amp;rsquo;re young, and I followed that advice. I explored almost 10 countries during university, some with friends, and others alone. Just to name a few, I went USA for exchange, Australia for my FYP, and a handful of SEA countries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

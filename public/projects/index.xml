@@ -6,21 +6,77 @@
     <description>Recent content in Projects on Enoch Mok</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
+      <title>Screen Time Analysis with Supabase and Python</title>
+      <link>http://localhost:1313/projects/screentime_analysis/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/screentime_analysis/</guid>
+      <description>Wait, I&amp;rsquo;m 26 already? Where did my time go?</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description></description>
+      <title>Portfolio Website v2</title>
+      <link>http://localhost:1313/projects/portfolio_website_v2/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio_website_v2/</guid>
+      <description>V2 of my portfolio website. I probably learnt my lessons, right?</description>
+    </item>
+    <item>
+      <title>FitLah Bot</title>
+      <link>http://localhost:1313/projects/fitlah_bot/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fitlah_bot/</guid>
+      <description>If you use ActiveSG facilities, feel free to use this capacity checker too!</description>
+    </item>
+    <item>
+      <title>Portfolio Website v1</title>
+      <link>http://localhost:1313/projects/portfolio_website_v1/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio_website_v1/</guid>
+      <description>Just a simple personal portfolio website to showcase projects and skills. Shouldn&amp;rsquo;t be too difficult, right?</description>
+    </item>
+    <item>
+      <title>HDB Transport Infrastructure Review</title>
+      <link>http://localhost:1313/projects/hdb_transport_infrastructure_review/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hdb_transport_infrastructure_review/</guid>
+      <description>Always found public transport networks to be so cool. Especially trains. I like trains.</description>
+    </item>
+    <item>
+      <title>Youth Service Telegram Bot</title>
+      <link>http://localhost:1313/projects/nlym_telebot/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nlym_telebot/</guid>
+      <description>Didn&amp;rsquo;t seem very efficient if everyone in the group had to check the roster sheet every week. Why not automate it?</description>
+    </item>
+    <item>
+      <title>Mammogram Classification</title>
+      <link>http://localhost:1313/projects/mammogram_classification/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mammogram_classification/</guid>
+      <description>My FYP project that I did at Monash University, Melbourne! Lots of avocados and coffee were consumed in the process.</description>
+    </item>
+    <item>
+      <title>Retinal Segmentation</title>
+      <link>http://localhost:1313/projects/retinal_segmentation/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/retinal_segmentation/</guid>
+      <description>Explored image segmentation since I have done projects of image classification.</description>
+    </item>
+    <item>
+      <title>Field Booker</title>
+      <link>http://localhost:1313/projects/field_booker/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/field_booker/</guid>
+      <description>Had to book school fields as the frisbee captain. Unfortunately, said captain was too lazy to stay up until midnight to click through a user-unfriendly website.</description>
+    </item>
+    <item>
+      <title>COVID-19 Analysis</title>
+      <link>http://localhost:1313/projects/covid_analysis/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/covid_analysis/</guid>
+      <description>My first data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
     </item>
   </channel>
 </rss>

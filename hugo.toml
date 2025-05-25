@@ -54,6 +54,10 @@ url = "https://github.com/e-mny"
 name = "telegram"
 url = "https://t.me/ahmokahmok"
 
+[[params.social]]
+name = "resume"
+url = "/EnochMok_Resume.pdf"
+
 # Main menu pages
 [[params.menu]]
 name = "about"
@@ -62,6 +66,10 @@ url = "/about"
 [[params.menu]]
 name = "projects"
 url = "/projects"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
 
 # Syntax highlight on code blocks
 [markup]

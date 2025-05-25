@@ -1,24 +1,22 @@
 ---
 title: "About"
-description: "A description of Francesco Tomaselli, an Italian software engineer."
+description: "A description of Enoch Mok, an aspiring data scientist."
 hideBackToTop: true
 hidePagination: true
 ---
 
-I got a Bachelor’s degree from the [University of Trento](https://www.unitn.it/), and my
-Master’s degree from the [University of Milan](https://www.unimi.it/). Currently,
-I work as a Software Engineer at [Amazon](https://www.amazon.jobs/teams/aft) Berlin.
+I did my _Bachelor’s in Computer Science at [Nanyang Technological University](https://www.ntu.edu.sg/)_, graduating debt-free under a [_research-focused scholarship_](https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme). I'm currently working as a _Data Analyst at [SingHealth](https://www.singhealth.com.sg/)_, Singapore's biggest healthcare cluster.
 
-During my studies, I gained a lot of interest in algorithms and data structures, as well as
-distributed systems, databases, and search engines. I explored those topics with my master’s
-thesis on [graph compression](https://github.com/tomfran/ANS-Graph-compression), and with side
-projects on [LSM tree](https://github.com/tomfran/LSM-Tree) and [search engine](https://github.com/tomfran/search-rs) 
-implementations.
+During my studies, I:
 
-I had the opportunity of being a contestant at [SWERC](https://swerc.eu/), a team competitive
-programming competition, in 2020 and 2022, also, I liked to participate in 
-[Google Hashcode](<https://en.wikipedia.org/wiki/Hash_Code_(programming_competition)>) every time
-I got the chance.
+- designed a [_tray-return robot_](https://blogs.ntu.edu.sg/ps9888-2021-g15/)
+- co-authored a [_book chapter_](https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985)
+- recreated a [_life-sized model of my hall room in Minecraft during virtual orientation_](/OrientationHallRoomMinecraft.jpg)
+- and... got a slipped disc. Pretty eventful I must say!
 
-In my free time, I like to practice calisthenics and improve my cooking. I also [read](/library)
-occasionally but not as much as I should.
+I also travelled places! Ahh, I miss the cool weather.
+
+- Exchange Programme @ [_Georgia Tech, USA 🇺🇸_](https://www.gatech.edu/)
+- FYP @ [_Monash University, Australia 🇦🇺_](https://www.monash.edu/)
+
+In my free time, you'll find me playing the guitar, making coffee, cooking steak or chasing frisbees. **Think we'd vibe? Ping me and let's find out!**

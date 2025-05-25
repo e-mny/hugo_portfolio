@@ -6,14 +6,14 @@
     <description>Recent content in Database on Enoch Mok</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
+      <title>Screen Time Analysis with Supabase and Python</title>
+      <link>http://localhost:1313/projects/screentime_analysis/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/screentime_analysis/</guid>
+      <description>Wait, I&amp;rsquo;m 26 already? Where did my time go?</description>
     </item>
   </channel>
 </rss>
