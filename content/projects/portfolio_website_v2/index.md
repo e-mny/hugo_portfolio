@@ -16,9 +16,9 @@ math: false
 showTags: true
 ---
 
-## Chapter 1: Done Is Better Than Perfect
+## Done Is Better Than Perfect
 
-![List of Features I wanted in my website](../../assets/projects/portfolio_website_v2_1.png "List of features I wanted in my website")
+![List of Features I wanted in my website](portfolio_website_v2_1.png "List of features I wanted in my website")
 
 By writing down everything that I wanted to implement on my website, I feel alot more relieved. I categorized the features I want for my MVP, and those that are for aesthetics and are optional.
 
@@ -26,7 +26,7 @@ Once all my MVP features are implemented, I will include it in my LinkedIn and r
 
 ---
 
-## Chapter 2: The Result
+## The Result
 
 Well, when you see this, the website is ready to be SERVED (excluding the optional features).
 

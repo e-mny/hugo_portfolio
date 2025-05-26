@@ -6,8 +6,15 @@
     <description>Recent content in Home on Enoch Mok</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Caffeine Addiction</title>
+      <link>http://localhost:1313/things/my_caffeine_addiction/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/things/my_caffeine_addiction/</guid>
+      <description>How to fuel my caffeine addiction 101. Jk I&amp;rsquo;m not that addicted&amp;hellip; yet.</description>
+    </item>
     <item>
       <title>Screen Time Analysis with Supabase and Python</title>
       <link>http://localhost:1313/projects/screentime_analysis/</link>
@@ -51,20 +58,6 @@
       <description>Didn&amp;rsquo;t seem very efficient if everyone in the group had to check the roster sheet every week. Why not automate it?</description>
     </item>
     <item>
-      <title>Mammogram Classification</title>
-      <link>http://localhost:1313/projects/mammogram_classification/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/mammogram_classification/</guid>
-      <description>My FYP project that I did at Monash University, Melbourne! Lots of avocados and coffee were consumed in the process.</description>
-    </item>
-    <item>
-      <title>Retinal Segmentation</title>
-      <link>http://localhost:1313/projects/retinal_segmentation/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/retinal_segmentation/</guid>
-      <description>Explored image segmentation since I have done projects of image classification.</description>
-    </item>
-    <item>
       <title>Field Booker</title>
       <link>http://localhost:1313/projects/field_booker/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
@@ -76,14 +69,14 @@
       <link>http://localhost:1313/projects/covid_analysis/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/covid_analysis/</guid>
-      <description>My first data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
+      <description>My FIRST data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I did my &lt;em&gt;Bachelor’s in Computer Science at &lt;a href=&#34;https://www.ntu.edu.sg/&#34;&gt;Nanyang Technological University&lt;/a&gt;&lt;/em&gt;, graduating debt-free under a &lt;a href=&#34;https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme&#34;&gt;&lt;em&gt;research-focused scholarship&lt;/em&gt;&lt;/a&gt;. I&amp;rsquo;m currently working as a &lt;em&gt;Data Analyst at &lt;a href=&#34;https://www.singhealth.com.sg/&#34;&gt;SingHealth&lt;/a&gt;&lt;/em&gt;, Singapore&amp;rsquo;s biggest healthcare cluster.&lt;/p&gt;&#xA;&lt;p&gt;During my studies, I:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;designed a &lt;a href=&#34;https://blogs.ntu.edu.sg/ps9888-2021-g15/&#34;&gt;&lt;em&gt;tray-return robot&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;co-authored a &lt;a href=&#34;https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985&#34;&gt;&lt;em&gt;book chapter&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;recreated a &lt;a href=&#34;http://localhost:1313/OrientationHallRoomMinecraft.jpg&#34;&gt;&lt;em&gt;life-sized model of my hall room in Minecraft during virtual orientation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;and&amp;hellip; got a slipped disc. Pretty eventful I must say!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I also travelled places! Ahh, I miss the cool weather.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Exchange Programme @ &lt;a href=&#34;https://www.gatech.edu/&#34;&gt;&lt;em&gt;Georgia Tech, USA 🇺🇸&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;FYP @ &lt;a href=&#34;https://www.monash.edu/&#34;&gt;&lt;em&gt;Monash University, Australia 🇦🇺&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In my free time, you&amp;rsquo;ll find me playing the guitar, making coffee, cooking steak or chasing frisbees. &lt;strong&gt;Think we&amp;rsquo;d vibe? Ping me and let&amp;rsquo;s find out!&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I did my &lt;strong&gt;Bachelor’s in Computer Science at &lt;a href=&#34;https://www.ntu.edu.sg/&#34;&gt;Nanyang Technological University&lt;/a&gt;&lt;/strong&gt;, graduating debt-free under a &lt;a href=&#34;https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme&#34;&gt;&lt;em&gt;research-focused scholarship&lt;/em&gt;&lt;/a&gt;. I&amp;rsquo;m currently working as a &lt;strong&gt;Data Analyst at &lt;a href=&#34;https://www.singhealth.com.sg/&#34;&gt;SingHealth&lt;/a&gt;&lt;/strong&gt;, Singapore&amp;rsquo;s biggest healthcare cluster.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;During my undergraduate, I:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;designed a &lt;a href=&#34;https://blogs.ntu.edu.sg/ps9888-2021-g15/&#34;&gt;&lt;em&gt;tray-return robot&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;co-authored a &lt;a href=&#34;https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985&#34;&gt;&lt;em&gt;book chapter&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;recreated a &lt;a href=&#34;http://localhost:1313/OrientationHallRoomMinecraft.jpg&#34;&gt;&lt;em&gt;life-sized model of my hall room in Minecraft during virtual orientation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;and&amp;hellip; got a slipped disc. :-(&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Spent a lot of time travelling too! Ahh, I miss the cool weather.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Exchange Programme @ &lt;a href=&#34;https://www.gatech.edu/&#34;&gt;&lt;strong&gt;Georgia Tech, USA 🇺🇸&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Overseas FYP @ &lt;a href=&#34;https://www.monash.edu/it/aimh-lab&#34;&gt;&lt;strong&gt;AIM for Health Lab (formerly Monash Medical AI Group), Australia 🇦🇺&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In my free time, you&amp;rsquo;ll find me playing the guitar, &lt;a href=&#34;http://localhost:1313/things/my_caffeine_addiction&#34;&gt;making coffee&lt;/a&gt;, cooking steak or chasing frisbees.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

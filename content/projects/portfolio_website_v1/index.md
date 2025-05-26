@@ -15,20 +15,20 @@ math: false
 showTags: true
 ---
 
-## Chapter 1: The Beginning
+## The Beginning
 
 Do I really need to explain myself? Hahah as a developer... it seems like it's mandatory to have a personal website!
 
 Regardless, I found it quite fun, playing around with different frameworks people claim to be _the best_ (spoiler: there's no best). Something about looking at performance comparison charts just gives me that euphoria and excitment to try the best of the best.
 
-[![Web Framework Comparison Video](http://img.youtube.com/vi/ZRT5UAuDvYQ/0.jpg)](http://www.youtube.com/watch?v=ZRT5UAuDvYQ "Ranking The Most Popular Javascript Frameworks 2023 by @developedbyed")
+[![Web Framework Comparison Video](http://img.youtube.com/vi/ZRT5UAuDvYQ/0.jpg#small)](http://www.youtube.com/watch?v=ZRT5UAuDvYQ "Ranking The Most Popular Javascript Frameworks 2023 by @developedbyed")
 
 - **The Idea**: To create a most performant yet aesthetic personal portfolio website to showcase my projects and skills.
 - **Why It Matters**: Faster website = better, right? Aesthetic website = better, right?
 
 ---
 
-## Chapter 2: Finding The Best Tools
+## Finding The Best Tools
 
 I spent hours finding the best tool for the job. Many suggested React because there is just so much support and it's so popular especially with Next.js. I gave that a shot. It was great. Plenty of functions especially with the states and how it makes the website just so responsive.
 
@@ -38,14 +38,14 @@ Time to spend even more time research about _the best_ framework for static site
 
 With some thorough research, I consolidated a few that were recommended and popular for static sites.
 
-| Framework     | Pros                                                                             | Cons                                                          |
-| ------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **Astro**     | - Simple and performant <br> - Great for static sites <br> - Easy to learn       | - Limited ecosystem compared to React <br> - Less mature      |
-| **SvelteKit** | - Reactive and fast <br> - Great developer experience <br> - Small bundle size   | - Smaller community <br> - Less mature than React             |
-| **Hugo**      | - Extremely fast <br> - Powerful templating <br> - Large community               | - Written in Go, which may be unfamiliar <br> - Less flexible |
-| **11ty**      | - Highly customizable <br> - Fast build times <br> - Minimalistic                | - Steeper learning curve <br> - Less out-of-the-box features  |
-| **Jekyll**    | - Easy to use <br> - Large community <br> - GitHub Pages integration             | - Slower build times <br> - Ruby dependency                   |
-| **Gatsby**    | - Rich plugin ecosystem <br> - Great for dynamic content <br> - Strong community | - Can be complex <br> - Longer build times <br> - Outdated    |
+| Framework     | Pros                                                               | Cons                                                  |
+| ------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
+| **Astro**     | Simple and performant; Great for static sites; Easy to learn       | Limited ecosystem compared to React; Less mature      |
+| **SvelteKit** | Reactive and fast; Great developer experience; Small bundle size   | Smaller community; Less mature than React             |
+| **Hugo**      | Extremely fast; Powerful templating; Large community               | Written in Go, which may be unfamiliar; Less flexible |
+| **11ty**      | Highly customizable; Fast build times; Minimalistic                | Steeper learning curve; Less out-of-the-box features  |
+| **Jekyll**    | Easy to use; Large community; GitHub Pages integration             | Slower build times; Ruby dependency                   |
+| **Gatsby**    | Rich plugin ecosystem; Great for dynamic content; Strong community | Can be complex; Longer build times; Outdated          |
 
 Did I spend more time searching for _the best_ tool to use than actually creating a website?
 
@@ -59,21 +59,21 @@ Enough talk about how much time I spent on searching, but perhaps I'll share mor
 
 ---
 
-## Chapter 3: The Inspiration
+## The Inspiration
 
 Enough yapping, let's start writing code! I needed inspiration, so I went to Pinterest, Awwwards, Dribble to find the designs that spoke to me.
 
-![Apple's Bento Design](../../assets/projects/portfolio_website_v1_2.jpg "Source: Apple")
+![Apple's Bento Design](portfolio_website_v1_2.jpg "Source: Apple")
 
-![Bento Design from Dribble](../../assets/projects/portfolio_website_v1_1.jpg "Source: Dribble")
+![Bento Design from Dribble](portfolio_website_v1_1.jpg "Source: Dribble")
 
 I really liked Apple's marketing bento designs for their new products. I tried creating something similar, but it just didn't fit the vibe of a portfolio website. It felt more like a marketing website.
 
-![My Bento Website](../../assets/projects/portfolio_website_v1_3.png "My Bento Personal Website")
+![My Bento Website](portfolio_website_v1_3.png "My Bento Personal Website")
 
 I also liked Apple's main page, something about it makes the design just so clean.
 
-![Screenshot from Apple's Website](../../assets/projects/portfolio_website_v1_4.png "Source: Apple")
+![Screenshot from Apple's Website](portfolio_website_v1_4.png "Source: Apple")
 
 <video autoplay loop muted playsinline class="w-5/6 h-auto text-white pointer-events-none cursor-none" aria-label="Demo of Portfolio Website v1">
 

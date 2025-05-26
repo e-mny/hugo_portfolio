@@ -5,10 +5,15 @@ description: "A review of public transport infrastructure in HDB towns, assessin
 pubDate: 2024-07-15
 updatedDate: 2024-07-23
 tags: ["data visualization", "python", "data science"]
-techStack: ["Python", "Seaborn", "Matplotlib"]
-repoUrl: "https://github.com/e-mny/HDB_Transport_Infrastructure_Review"
+# techStack: ["Python", "Seaborn", "Matplotlib"]
+# repoUrl: "https://github.com/e-mny/HDB_Transport_Infrastructure_Review"
 draft: false
 archive: false
+toc: true
+readTime: true
+autonumber: true
+math: false
+showTags: true
 ---
 
 ## Understanding Transport Disparities in HDB Towns
@@ -19,25 +24,23 @@ One fine day, I was taking the MRT to meet my friends (or something). I was curi
 
 Are there HDB towns that are significantly underserved by public transport?
 
-#### **📌 The Research Questions**
+### The Research Questions
 
 - Which areas have **insufficient transport infrastructure** compared to population density?
 - How do **bus stops and MRT stations** align with **demand**?
 - Are there **specific MRT phases** that should be accelerated?
 
-#### **🔍 Interactive Overview: Public Transport Infrastructure**
+### Interactive Overview: Public Transport Infrastructure
 
 Explore the **overall transport density** across Singapore in the interactive map below:
 
-<iframe src="/projects/hdb_transport_infrastructure_review/singaporePT.html" width="100%" height="500px"></iframe>
-
 ---
 
-## **🚌 Analyzing Bus Stop Density**
+## Analyzing Bus Stop Density
 
 Bus stop distribution is **not uniform**, with some towns experiencing **notable shortages**.
 
-#### **🚦 Key Findings**
+### Key Findings
 
 - Areas with **significant bus stop shortages**:
   1. **River Valley**
@@ -46,7 +49,7 @@ Bus stop distribution is **not uniform**, with some towns experiencing **notable
   4. **Choa Chu Kang**
   5. **Newton**
 
-#### **📍 Interactive Map: Bus Stop Density Discrepancies**
+### Interactive Map: Bus Stop Density Discrepancies
 
 The heatmap below visualizes **bus stop coverage gaps**:
 
@@ -54,11 +57,11 @@ The heatmap below visualizes **bus stop coverage gaps**:
 
 ---
 
-## **🚇 MRT Station Density – Are Some Areas Underserved?**
+## MRT Station Density – Are Some Areas Underserved?
 
 While the MRT network is extensive, **certain HDB towns have significantly fewer train stations** than needed.
 
-#### **🚉 Top Areas with Train Stop Shortages**
+### Top Areas with Train Stop Shortages
 
 1. **Choa Chu Kang**
 2. **Sengkang**
@@ -66,7 +69,7 @@ While the MRT network is extensive, **certain HDB towns have significantly fewer
 4. **Hougang**
 5. **Woodlands**
 
-#### **📊 Interactive Map: Train Stop Density Discrepancies**
+### Interactive Map: Train Stop Density Discrepancies
 
 Explore which areas require **more MRT stations**:
 
@@ -74,11 +77,11 @@ Explore which areas require **more MRT stations**:
 
 ---
 
-## **🌍 Combined Transport Density Analysis**
+## Combined Transport Density Analysis
 
 To assess the overall public transport accessibility, I calculated a **transport density discrepancy score**, which considers both **bus stops and MRT stations**.
 
-#### **📊 Interactive Map: Overall Public Transport Gaps**
+### Interactive Map: Overall Public Transport Gaps
 
 The following heatmap highlights areas with the **largest transport accessibility issues**:
 
@@ -86,29 +89,29 @@ The following heatmap highlights areas with the **largest transport accessibilit
 
 ---
 
-## **🏗️ Future Transport Planning – What Should Be Prioritized?**
+## Future Transport Planning – What Should Be Prioritized?
 
 Based on the findings, the following **MRT phases** should be prioritized for acceleration:
 
-#### **🚆 Recommended MRT Expansions**
+### Recommended MRT Expansions
 
 - **Jurong Region Line (JRL) Phase 1 (2027)**
 - **Cross Island Line (CRL) Phase 1 (2030)**
 - **CRL Punggol Extension (2032)**
 
-![Upcoming MRT Projects by LTA](../../assets/projects/hdb_transport_infrastructure_review_1.jpg "Announced MRT Projects by LTA as of 2025")
+![Upcoming MRT Projects by LTA](hdb_transport_infrastructure_review_1.jpg "Announced MRT Projects by LTA as of 2025")
 
 ---
 
-## **🔮 Key Takeaways & Future Directions**
+## Key Takeaways & Future Directions
 
-#### **📌 Final Thoughts**
+### Final Thoughts
 
 - Public transport infrastructure **varies significantly** across HDB towns.
 - Certain MRT phases **should be accelerated** to address high-demand areas.
 - **Interactive maps help visualize transport gaps effectively.**
 
-#### **🔬 Next Steps**
+### Next Steps
 
 - Analyze **weekend vs. weekday transport accessibility**.
 - Study **first-mile/last-mile connectivity issues**.

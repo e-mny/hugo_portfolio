@@ -15,7 +15,7 @@ math: false
 showTags: true
 ---
 
-## Chapter 1: The Why?
+## The Why?
 
 Like many others, I found myself frustrated by the uncertainty of gym and pool availability. Showing up to an overcrowded gym meant either waiting or adjusting plans on the fly. This sparked the idea for **FitLah Bot** &ndash; a simple, automated way to check real-time capacity before heading out.
 
@@ -24,7 +24,7 @@ Like many others, I found myself frustrated by the uncertainty of gym and pool a
 
 ---
 
-## Chapter 2: The How?
+## The How?
 
 Before building the bot, I had to understand how to access public facility data and ensure real-time updates. This involved exploring APIs, databases, and serverless architectures.
 
@@ -33,7 +33,7 @@ Before building the bot, I had to understand how to access public facility data 
 
 ---
 
-## Chapter 3: The What?
+## The What?
 
 <video autoplay loop muted playsinline class="w-5/6 h-auto text-white pointer-events-none cursor-none" aria-label="Demo of FitLah bot">
   <source src="/projects/fitlah_bot_start.webm" type="video/webm">
@@ -54,7 +54,7 @@ Once the foundations were set, it was time to bring **FitLah Bot** to life.
 
 ---
 
-## Chapter 4: The Huh?
+## The Huh?
 
 I still remembered having to read through all the log files AWS Lambda would show, but it always took a while for it to load the log files.
 
@@ -62,7 +62,7 @@ The periods of 30 seconds wait always made me anxious &ndash; will my fix finall
 
 ---
 
-## Chapter 5: The Yay!
+## The Yay!
 
 <video autoplay loop muted playsinline class="w-5/6 h-auto text-white pointer-events-none cursor-none z-50" aria-label="Demo of FitLah bot adding user's favourites">
   <source src="/projects/fitlah_bot_addfav.webm" type="video/webm">
@@ -77,7 +77,7 @@ After countless iterations and debugging sessions, things started falling into p
 
 ---
 
-## Chapter 6: The Now!
+## The Now!
 
 <video autoplay loop muted playsinline class="w-5/6 h-auto text-white pointer-events-none cursor-none" aria-label="Demo of FitLah bot showing user's favourites">
   <source src="/projects/fitlah_bot_showfav.webm" type="video/webm">
@@ -92,7 +92,7 @@ At this stage, **FitLah Bot** became fully functional and ready for real-world u
 
 ---
 
-## Chapter 7: The Future!
+## The Future!
 
 There's always room for improvement, and I make sure to consider everyone's feedback.
 

@@ -22,9 +22,13 @@ hideHeader = false
 homeIntroTitle = 'hello! 👋🏻'
 homeIntroContent = """
 
-I'm a data scientist with a CS background, a soft spot for side projects, and a habit of turning random ideas into code. Whether it's machine learning, chatbots, or robotics, I like tech with a touch of personality.
+I'm an aspiring Data Scientist. I live for [coffee](/things/my_caffeine_addiction), good food, sunsets and oceans.
 
-Feel free to explore - it's a mix of work and whimsy.
+This site is the HTML version of what's happening in my head.
+
+If you're an organised mess too, don't leave me hanging! 👊🏻
+
+----
 """
 
 # Footer
@@ -68,7 +72,11 @@ name = "projects"
 url = "/projects"
 
 [[params.menu]]
-name = "tags"
+name = "things"
+url = "/things"
+
+[[params.menu]]
+name = "z_tags"
 url = "/tags"
 
 # Syntax highlight on code blocks

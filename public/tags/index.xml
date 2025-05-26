@@ -135,55 +135,6 @@
       <description></description>
     </item>
     <item>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Healthcare</title>
-      <link>http://localhost:1313/tags/healthcare/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/healthcare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Image Classification</title>
-      <link>http://localhost:1313/tags/image-classification/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/image-classification/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Medical Imaging</title>
-      <link>http://localhost:1313/tags/medical-imaging/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/medical-imaging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opencv</title>
-      <link>http://localhost:1313/tags/opencv/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/opencv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retinal Segmentation</title>
-      <link>http://localhost:1313/tags/retinal-segmentation/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/retinal-segmentation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Web Scraping</title>
       <link>http://localhost:1313/tags/web-scraping/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>

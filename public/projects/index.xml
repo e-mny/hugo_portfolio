@@ -51,20 +51,6 @@
       <description>Didn&amp;rsquo;t seem very efficient if everyone in the group had to check the roster sheet every week. Why not automate it?</description>
     </item>
     <item>
-      <title>Mammogram Classification</title>
-      <link>http://localhost:1313/projects/mammogram_classification/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/mammogram_classification/</guid>
-      <description>My FYP project that I did at Monash University, Melbourne! Lots of avocados and coffee were consumed in the process.</description>
-    </item>
-    <item>
-      <title>Retinal Segmentation</title>
-      <link>http://localhost:1313/projects/retinal_segmentation/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/retinal_segmentation/</guid>
-      <description>Explored image segmentation since I have done projects of image classification.</description>
-    </item>
-    <item>
       <title>Field Booker</title>
       <link>http://localhost:1313/projects/field_booker/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
@@ -76,7 +62,7 @@
       <link>http://localhost:1313/projects/covid_analysis/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/covid_analysis/</guid>
-      <description>My first data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
+      <description>My FIRST data analysis project. Spoiler: it wasn&amp;rsquo;t great</description>
     </item>
   </channel>
 </rss>

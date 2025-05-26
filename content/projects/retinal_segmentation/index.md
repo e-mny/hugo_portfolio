@@ -14,7 +14,7 @@ tags:
     "opencv",
   ]
 # techStack: ["Python", "Keras", "OpenCV"]
-draft: false
+draft: true
 toc: true
 readTime: true
 autonumber: true
@@ -22,7 +22,7 @@ math: false
 showTags: true
 ---
 
-## Chapter 1: The Beginning – Why This Project?
+## The Beginning – Why This Project?
 
 At the beginning, there was a problem that needed solving, and I found myself deeply intrigued by it. This chapter introduces the spark for the project and the motivation that drove me to embark on this journey.
 
@@ -31,7 +31,7 @@ At the beginning, there was a problem that needed solving, and I found myself de
 
 ---
 
-## Chapter 2: The Research – Diving Into the Unknown
+## The Research – Diving Into the Unknown
 
 This is the chapter where I started diving deep into the research and learning phase. I spent hours reading documentation, tutorials, and articles, but the road wasn’t always smooth.
 
@@ -41,7 +41,7 @@ This is the chapter where I started diving deep into the research and learning p
 
 ---
 
-## Chapter 3: The Building – The Art of Creation
+## The Building – The Art of Creation
 
 This chapter is all about the _doing_. It’s where the project took shape and everything started coming together.
 
@@ -52,7 +52,7 @@ This chapter is all about the _doing_. It’s where the project took shape and e
 
 ---
 
-## Chapter 4: The Struggles – The Darkest Hour
+## The Struggles – The Darkest Hour
 
 Every story has a dark chapter, and this is where things didn’t go as planned.
 
@@ -62,7 +62,7 @@ Every story has a dark chapter, and this is where things didn’t go as planned.
 
 ---
 
-## Chapter 5: The Breakthrough – The Turning Point
+## The Breakthrough – The Turning Point
 
 Every story has a turning point, a moment where everything changes.
 
@@ -72,7 +72,7 @@ Every story has a turning point, a moment where everything changes.
 
 ---
 
-## Chapter 6: The Resolution – The Final Outcome
+## The Resolution – The Final Outcome
 
 This is the chapter where the project comes to life.
 
@@ -82,7 +82,7 @@ This is the chapter where the project comes to life.
 
 ---
 
-## Chapter 7: The Epilogue – Looking Ahead
+## The Epilogue – Looking Ahead
 
 No story ends without a look to the future.
 
