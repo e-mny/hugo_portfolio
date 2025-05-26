@@ -2,7 +2,7 @@
 title: "FitLah Bot"
 # hero: "~/assets/projects/fitlah_bot_1.jpg"
 # heroAlt: "FitLah Bot Hero Image"
-summary: "If you use ActiveSG facilities, feel free to use this capacity checker too!"
+summary: "If you use ActiveSG, feel free to use this capacity checker too!"
 description: "A Telegram bot that provides real-time public gym and pool capacity in Singapore, helping users plan their workouts efficiently."
 date: 2025-02-11
 tags: ["chatbot", "Python", "automation", "AWS", "Supabase"]

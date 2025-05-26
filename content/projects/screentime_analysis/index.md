@@ -1,7 +1,7 @@
 ---
 title: "Screen Time Analysis with Supabase and Python"
 date: "2025-05-24"
-summary: "Wait, I'm 26 already? Where did my time go?"
+summary: "Minmaxing my time to ensure 150% productivity. Totally."
 description: "This project explores personal screen time data collection and analysis, leveraging Python for data processing and Supabase as a backend database."
 toc: true
 readTime: true

@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Website v1"
-summary: "Just a simple personal portfolio website to showcase projects and skills. Shouldn't be too difficult, right?"
-description: "Building my first portfolio site—experimenting with Astro, React, and SvelteKit—while learning to balance performance, design, and decision-making."
+summary: "Just a simple personal website to showcase projects and skills. Shouldn't be too difficult, right?"
+description: "Building my first portfolio site-experimenting with Astro, React, and SvelteKit - while learning to balance performance, design, and decision-making."
 date: 2024-09-04
 tags: ["web development", "Astro", "React", "Next.js", "Svelte", "HTML"]
 techStack: ["Astro", "JavaScript", "Markdown", "CSS", "HTML"]
