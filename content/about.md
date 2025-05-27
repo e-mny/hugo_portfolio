@@ -14,7 +14,7 @@ I'm currently working as a **Data Analyst at [SingHealth](https://www.singhealth
 During my undergraduate, I:
 
 - designed a [_tray-return robot_](https://blogs.ntu.edu.sg/ps9888-2021-g15/)
-- co-authored a [_book chapter_](https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985)
+- co-authored a [_research book chapter_](https://www.igi-global.com/chapter/federated-learning-for-breast-cancer-classification/338985)
 - recreated a [_life-sized model of my hall room in Minecraft during virtual orientation_](/OrientationHallRoomMinecraft.jpg)
 - got a _speeding ticket (it was not cheap)_
 - and... got a slipped disc. :-(

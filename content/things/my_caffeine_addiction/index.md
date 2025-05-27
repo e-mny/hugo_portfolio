@@ -1,7 +1,7 @@
 ---
 title: "My Caffeine Addiction"
 summary: "How to fuel my caffeine addiction 101. Jk I'm not that addicted... yet."
-description: "Sharing my journey into the world of espresso, including equipment choices, workflow, and tips for making great coffee at home."
+description: "Sharing my journey into the world of espresso, including equipment choices, workflow, and tips for making great coffee at home. Please recommend your favourite beans!"
 date: 2025-05-26
 draft: false
 toc: false
